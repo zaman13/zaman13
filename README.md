@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **zaman13/zaman13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaman13)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaman13&hide=java,html,css)](https://github.com/anuraghazra/github-readme-stats)
