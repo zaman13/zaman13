@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaman13&hide=java,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 
@@ -22,4 +24,3 @@ Here are some ideas to get you started:
 ## &#x1f4c8; My GitHub Stats
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaman13)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaman13&hide=java,html,css)](https://github.com/anuraghazra/github-readme-stats)
